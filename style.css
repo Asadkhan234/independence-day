@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:fantasy;
+}
+
+.asad{
+   background-color: green !important;
+}
+
+/* .asad:hover{
+    color: rgb(245, 245, 245) !important;
+    background-color: white !important;
+} */
+
+.saad:hover{
+   color: white !important;
+   
+}
+
+
+.saad{
+    font-weight: bold !important;
+     font-style: italic;
+     text-decoration:solid;
+     
+}
+
+.as{
+    background-image: url(image1.jpg);
+    width: 1370px;
+    height: 500px;
+    background-position: center;
+   
+}
+.navbar{
+    padding-bottom: 0px;
+}
+
+
+
+.day{
+    position: absolute;
+   top: 0;
+   margin: 150px 600px;
+   color: white;
+}
+
+.day2{
+    position: absolute;
+   top: 0;
+   margin: 200px 480px;
+   color: white;
+}
+.day3{
+    position: absolute;
+   top: 0;
+   margin: 250px 480px;
+  color:white;
+}
+
+.day:hover{
+color: green !important;
+transition: all 0.5s linear;
+transform: scale(2);
+filter: drop-shadow(0 0 25px blue);
+}
+
+.day2:hover{
+    color: green !important;
+    transition: all 0.5s linear;
+    transform: scale(2);
+    filter: drop-shadow(0 0 25px blue);
+}
+
+.day3:hover{
+    color: green !important;
+    transition: all 0.5s linear;
+    transform: scale(2);
+    filter: drop-shadow(0 0 25px blue);
+}
+
+.ind{
+    position: absolute;
+    top: 0;
+    margin: 310px 550px;
+}
+
+.ind:hover{
+    filter: drop-shadow(0 0 25px green);
+    transition: all 0.5s ease;
+    transform: scale(1.1);
+}
+
+.shirt{
+
+    /* margin-top: 9px ; */
+    font-size: large;
+    font-weight: bold;
+   font-style: italic;
+    color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: green;
+}
+
+.shirt:hover{
+    color: limegreen;
+    transition: all 0.5s linear;
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 25px blue);
+}
+
+
+.card-body{
+    padding:0px 0px;
+}
+
+.text-muted{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.khan:hover{
+ transform: scale(1.1);
+ filter: drop-shadow(0 0 30px red);
+ transition: all 0.5s linear;
+}
+
+
+.sin{
+    margin-top: 15px;
+}
+
+.sin:hover{
+    filter: drop-shadow(0 0 30px blue);
+ transition: all 0.5s linear;
+ color: blueviolet !important;
+}
